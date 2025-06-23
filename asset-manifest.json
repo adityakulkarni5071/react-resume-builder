@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-resume-builder/static/css/main.ad4bbdcc.css",
+    "main.js": "/react-resume-builder/static/js/main.cb55cc8d.js",
+    "static/js/977.8779aeac.chunk.js": "/react-resume-builder/static/js/977.8779aeac.chunk.js",
+    "static/js/455.26662dae.chunk.js": "/react-resume-builder/static/js/455.26662dae.chunk.js",
+    "static/js/453.68dd3449.chunk.js": "/react-resume-builder/static/js/453.68dd3449.chunk.js",
+    "index.html": "/react-resume-builder/index.html",
+    "main.ad4bbdcc.css.map": "/react-resume-builder/static/css/main.ad4bbdcc.css.map",
+    "main.cb55cc8d.js.map": "/react-resume-builder/static/js/main.cb55cc8d.js.map",
+    "977.8779aeac.chunk.js.map": "/react-resume-builder/static/js/977.8779aeac.chunk.js.map",
+    "455.26662dae.chunk.js.map": "/react-resume-builder/static/js/455.26662dae.chunk.js.map",
+    "453.68dd3449.chunk.js.map": "/react-resume-builder/static/js/453.68dd3449.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad4bbdcc.css",
+    "static/js/main.cb55cc8d.js"
+  ]
+}
